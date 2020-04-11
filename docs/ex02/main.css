@@ -1,0 +1,31 @@
+html body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.page {
+    width: 100vw;
+    height: 100vh;
+    background: url("http://pic1.win4000.com/wallpaper/2018-06-26/5b31f055f385c.jpg");
+    background-size: 100%;
+}
+
+li {
+    list-style: none;
+    padding: 1rem 0;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #39bad6;
+}
+
+.font {
+    font-size: 3rem;
+    color: white;
+}
